@@ -9,6 +9,10 @@ img {
   display: block;
 }
 
+body {
+  background: black;
+}
+
 
 #a {
   background: black;
