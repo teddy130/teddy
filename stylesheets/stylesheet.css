@@ -14,17 +14,22 @@ body {
 }
 
 
-#a {
+div {
+  display: block;
+}
+
+#b {
+  width: 900px;
   background: black;
+  padding-left: 10px;
+  margin: auto;
 }
 
 
-#b {
-  width : 900px;
+#c {
+  width: 900px;
+  height: 300px;
   background: black;
-  display: block;
-  padding-left: 10px;
-  margin: auto;
 }
 
 
